@@ -1,9 +1,15 @@
 .nav {
   grid-area: n;
   background-color: rebeccapurple;
+  padding: 20px;
 
 }
 
-.item {
+.item  {
   color: snow;
+  text-decoration: none;
+}
+
+.active {
+  color: gold;
 }
